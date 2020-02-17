@@ -11,4 +11,4 @@ Como sugestão, a API https://exchangeratesapi.io/ é totalmente grátis e vers�
 Projeto feito em MVVM
 
 Primeira tela é de conversão de moeda, deixei como base a USD.
-Segunda tela ´é histórico, onde será possivel indicar uma data e verificar quanto valia a moeda naquela data.
+Segunda tela é um histórico, onde será possivel indicar uma data e verificar quanto valia a moeda naquela data.
