@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gol Forex</string>
+    <string name="base_currency">Moeda Base</string>
+    <string name="currency_type">USD</string>
+    <string name="history">Histórico</string>
+    <string name="search">Buscar</string>
+
+    <array name="currency_list">
+        <item name="BRL">BRL</item>
+        <item name="EUR">EUR</item>
+    </array>
+</resources>
